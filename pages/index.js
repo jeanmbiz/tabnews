@@ -13,7 +13,7 @@ function Home() {
         justifyContent: "center",
       }}
     >
-      <h1>teste do ammend local</h1>
+      <h1>alterei localmente</h1>
     </body>
   );
 }
