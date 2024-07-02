@@ -13,7 +13,7 @@ function Home() {
         justifyContent: "center",
       }}
     >
-      <h1>alterei localmente</h1>
+      <h1>alteração do commit com ammend sem deixar na linha do tempo</h1>
     </body>
   );
 }
