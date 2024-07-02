@@ -13,7 +13,7 @@ function Home() {
         justifyContent: "center",
       }}
     >
-      <h1>teste de ammend ;)</h1>
+      <h1>teste do ammend local</h1>
     </body>
   );
 }
